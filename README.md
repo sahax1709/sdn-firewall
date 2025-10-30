@@ -38,6 +38,3 @@ for part3 result of executing commands are shown below:
 
 <img src="shots/dpctl3.png" alt="dpctl3">
    
-
-### Authors
-Amir Rezaei [@ameerezae](https://github.com/ameerezae)
